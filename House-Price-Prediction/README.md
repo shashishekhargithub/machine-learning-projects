@@ -23,3 +23,7 @@ USA Housing Dataset
 
 ## Outcome
 Successfully built a regression model for estimating house prices.
+
+## Learning Context
+
+This project was completed as part of a hands-on Machine Learning course and was implemented using Python and scikit-learn to strengthen practical machine learning skills.
