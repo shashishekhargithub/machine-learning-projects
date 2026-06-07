@@ -23,3 +23,7 @@ Lending Club Loan Dataset
 
 ## Outcome
 Successfully classified loan repayment outcomes using ensemble learning techniques.
+
+## Learning Context
+
+This project was completed as part of a hands-on Machine Learning course and focuses on applying Random Forest classification to real-world financial data. The project helped strengthen skills in data preprocessing, feature engineering, ensemble learning, model evaluation, and predictive analytics using Python and scikit-learn.
