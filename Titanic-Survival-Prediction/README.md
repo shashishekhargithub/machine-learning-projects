@@ -24,3 +24,7 @@ Titanic Dataset from Kaggle
 
 ## Outcome
 Successfully built and evaluated a classification model for survival prediction.
+
+## Learning Context
+
+This project was completed as part of a hands-on Machine Learning course and focuses on applying Logistic Regression to predict passenger survival on the Titanic dataset. The project helped strengthen skills in data cleaning, feature engineering, exploratory data analysis, classification modeling, and model evaluation using Python and scikit-learn.
